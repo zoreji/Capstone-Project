@@ -15,9 +15,9 @@ The 3-axes self-stabilizing camera mount uses two essential sensors. An accelero
 
 The concept of using gyroscopes as a way to stabilize an object on an unleveled surface dates back to Ancient Greek, Chinese and Romans. Where they try to stabilize objects on ship to traverse across seas. It was not until the early 19th Centuries where scientist develop tools and reduce the amount of variables for traveling through choppy or fog seas. A French scientist name Fleuriais created the first gyroscope by a top that was continuously blow by air jets which maintain the top stability. By the 1898, Austrian Ludwig Obry patented a gyroscopic inertia which is the base to all modern gyroscope.
 
-### 3.0 Process
+## 3.0 Process
 
-## 3.1 Design
+### 3.1 Design
 
 My partner, Gabriel Natividad, and I discus ideas of designing the structure and the location of each motor. We debated on several design of the prototype. One design was L shape bracket similar to the camera mount used in the film industry, but the problem was the size and weight of the camera mount. So we discover a design where each of the motor were stack on top of each other. This design make so that the weight is more center on the middle where the camera is rather the motor orbiting around the camera. The feature that was to be implemented were, portability, a tracking capability, and manual control over the camera mount.
 ```markdown
