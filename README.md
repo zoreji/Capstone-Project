@@ -11,7 +11,7 @@ As technology grows in today, mimicking human movements become more prevalent wi
 
 The 3-axes self-stabilizing camera mount uses two essential sensors. An accelerometer, which gather data of force applying to the sensor, and a gyroscope, a sensor that reads the change of angle applying to the sensor. Once the sensor gather the data, they send it to the Arduino board which calculate the data and translate the code into analog output where 3 servos, each mounted on different axes, position itself to those coordinates. This technology is used in Military, for plane and ships, the smart phone industry, space exploration and the robotics industry.
 
-### 2.1
+### 2.1 History
 
 The concept of using gyroscopes as a way to stabilize an object on an unleveled surface dates back to Ancient Greek, Chinese and Romans. Where they try to stabilize objects on ship to traverse across seas. It was not until the early 19th Centuries where scientist develop tools and reduce the amount of variables for traveling through choppy or fog seas. A French scientist name Fleuriais created the first gyroscope by a top that was continuously blow by air jets which maintain the top stability. By the 1898, Austrian Ludwig Obry patented a gyroscopic inertia which is the base to all modern gyroscope.
 
